@@ -23,7 +23,7 @@ public class SocialMediaApp {
      * @param args The arguments of the program.
      * @throws InterruptedException
      */
-    public static void main(String[] arg) throws InterruptedException {
-        SpringApplication.run(SocialMediaApp.class, arg);
+    public static void main(String[] args) throws InterruptedException {
+        SpringApplication.run(SocialMediaApp.class, args);
     }
 }
